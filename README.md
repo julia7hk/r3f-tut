@@ -1,3 +1,13 @@
+# React Three Fiber
+
+**What is R3F?** \
+React Three Fiber is a React renderer for Three. js that allows you to use Three. js in a declarative way, similar to how you use React to build user interfaces.
+
+**Why R3F?** \
+React Three Fiber is a React renderer for Three. js that brings the power of React's state management and component lifecycle to Three. js applications. It's an excellent choice if you're already familiar with React as it allows you to work with 3D scenes as if they were React components
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
